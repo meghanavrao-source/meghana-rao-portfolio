@@ -2,7 +2,7 @@
   "name": "my-first-portfolio",
   "home": "https://meghanavrao-source.github.io/meghana-rao-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",

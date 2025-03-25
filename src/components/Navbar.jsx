@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 
+// eslint-disable-next-line react/prop-types
 export const Navbar = ({ menuOpen, setMenuOpen }) => {
   useEffect(() => {
     document.body.style.overflow = menuOpen ? "hidden" : "";
